@@ -14,9 +14,9 @@ Hi, I'm lemming, a loser, a learner.
 ### Languages
 
 [![python][python-img]][python-url]
+[![stata][stata-img]][stata-url]
 [![R][R-img]][R-url]
 [![julia][julia-img]][julia-url]
-[![stata][stata-img]][stata-url]
 [![matlab][matlab-img]][matlab-url]
 
 
