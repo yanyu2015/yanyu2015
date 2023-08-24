@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ....
 - 📫 How to reach me: ...
 -->
-Hi, I'm lemming, a loser, a learner.
+Hi, I'm a PhD student, a loser, a learner.
 
 ### Languages
 
